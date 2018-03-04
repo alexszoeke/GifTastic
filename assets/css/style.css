@@ -1,0 +1,32 @@
+.container-fluid {
+    margin-top: 20px;
+    width: 90%;
+}
+
+img {
+    margin: 10px;
+}
+
+button, input {
+    margin: 10px;
+}
+
+button {
+    background-color: #343a40;
+    border: none;
+    color: white;
+    border-radius: .25rem;
+    height: 50%;
+    padding: 10px;
+
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-size: 30px;
+}
+
+#gif-display {
+    margin-top: 40px;
+}
+
