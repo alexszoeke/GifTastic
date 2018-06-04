@@ -1,7 +1,9 @@
 # GifTastic
-First assignment working with API's. 
+[GifTastic Doggos!](https://alexszoeke.github.io/GifTastic/)
 
-This assignment is making an AJAX call to GIPHY.com's database of gifs.
+First project working with API's. 
+
+This project is making an AJAX call to GIPHY.com's database of gifs.
 When a user clicks on any of the available buttons, a series of 10 gifs related to that button will appear on that page. However, they will be still. 
 
 The user has to click the gif in order for it to play. If they want it to stop, they can click on it again.
